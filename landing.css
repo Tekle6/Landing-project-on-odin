@@ -6,6 +6,11 @@
     font-family: sans-serif;
 }
 
+.header-logo h3
+{
+    font-size: 24px;
+    font-weight: 800;
+}
 
 .headerDiv
 {
@@ -36,7 +41,7 @@
 
 .awsome-website
 {
-    width: 500px;
+    width: 450px;
     margin-right: 4em;
 
 }
@@ -44,7 +49,7 @@
 .image
 {
     background-color: #8d8e90;
-    padding: 90px;
+    padding: 110px 120px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -52,6 +57,12 @@
     
     
     
+}
+
+.image p
+{
+    font-size: 18px;
+    color: #E5E7EB;
 }
 
 .header-links
@@ -83,4 +94,24 @@
 {
    font-size: 48px;
    font-weight: bolder;
+}
+
+.awsome-website p
+{
+    font-size: 18px;
+    color: #F9FAF8;
+    margin-bottom: 1em;
+}
+
+.signUp-btn
+{
+    background-color: #3882F6;
+    padding: 10px 30px;
+    font-size: 18px;
+    color: #F9FAF8;
+    font-weight: bolder;
+    border: none;
+    outline: none;
+    border-radius: 12px;
+    cursor: pointer;
 }
