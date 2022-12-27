@@ -3,7 +3,8 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-    font-family: sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
+    
 }
 
 .header-logo h3
@@ -165,4 +166,70 @@
 }
 
 
+.quotesDiv
+{
+    background-color: #E5E7EB;
+    display: grid;
+    padding: 100px 320px;
+
+}
+
+
+.quotesDiv p
+{
+    font-size: 36px;
+    font-style: italic;
+    font-weight: light;
+    color: #1F2937;
+    margin-bottom: 0.5em;
+
+}
+
+.quotesDiv span
+{
+    font-size: 18px;
+    font-weight: bold;
+    text-align: right;
+}
+
+.signupDiv
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 2em 0;
+
+}
+
+
+.signupInnerDiv
+{
+    display: flex;
+    background-color: #3882F6;
+    align-items: center;
+    justify-content: space-between;
+    padding: 3em 11em;
+    border-radius: 13px;
+}
+
+.signupInnerDiv button
+{
+    border: 2px solid white;
+    padding: 0.3em 2em;
+    border-radius: 8px;
+}
+
+.signupHeader h3
+{
+    color: white;
+    font-size: 24px;
+
+
+}
+
+.signupHeader
+{
+    color: #E5E7EB;
+    padding-right: 11em;
+}
 
