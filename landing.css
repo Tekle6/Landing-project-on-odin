@@ -175,6 +175,7 @@
     background-color: #E5E7EB;
     display: grid;
     padding: 100px 320px;
+    font-weight: 100;
 
 }
 
@@ -191,9 +192,10 @@
 
 .quotesDiv span
 {
-    font-size: 18px;
+    font-size: 28px;
     font-weight: bold;
     text-align: right;
+    color: #1F2937;
 }
 
 .signupDiv
