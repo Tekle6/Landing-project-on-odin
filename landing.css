@@ -51,7 +51,7 @@
 
 .image
 {
-    background-color: #8d8e90;
+    background-color: rgba(232, 231, 231, 0.372);
     padding: 110px 120px;
     display: flex;
     align-items: center;
@@ -66,6 +66,8 @@
 {
     font-size: 18px;
     color: #E5E7EB;
+    
+
 }
 
 .header-links
